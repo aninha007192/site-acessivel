@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #6c22a8;
+    --laranja-claro: #831d1d;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ff7300e0;
@@ -24,13 +24,13 @@ section {
 
 
 .nav-link {
-    color: #6c22a8;
+    color: #831d1d;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url(https://img.freepik.com/fotos-premium/raios-de-luz-diagonais-em-um-fundo-vermelho-bordo-e-preto-efeito-de-luz-de-fundo-abstrato-desfocado-e-vazamentos-iluminacao-da-superficie-lateral-linhas-paralelas-e-assimetricas-listras-de-luz-em-angulo_565632-5250.jpg);
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
