@@ -113,7 +113,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url(https://img.freepik.com/fotos-premium/raios-de-luz-diagonais-em-um-fundo-vermelho-bordo-e-preto-efeito-de-luz-de-fundo-abstrato-desfocado-e-vazamentos-iluminacao-da-superficie-lateral-linhas-paralelas-e-assimetricas-listras-de-luz-em-angulo_565632-5250.jpg);
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #5f1919;
     border: none;
     font-weight: bold;
 }
