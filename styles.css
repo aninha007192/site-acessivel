@@ -108,7 +108,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #161515;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
